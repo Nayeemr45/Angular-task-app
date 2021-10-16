@@ -8,6 +8,9 @@
 .task.reminder {
   border-left: 5px solid green;
 }
+/* .task {
+  border-left: 5px solid #d0d0d0;
+} */
 
 .task h3 {
   display: flex;
